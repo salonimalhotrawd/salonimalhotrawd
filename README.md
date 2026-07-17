@@ -185,9 +185,13 @@ A fully responsive YouTube Clone built using **React**, **Redux Toolkit**, **Tai
 - React Router
 - YouTube Data API
 
-### Live Demo
+### 🌐 Live Demo
 
 👉 https://youtube-clone-hazel-eight.vercel.app/
+
+### 📂 Repository
+
+👉 https://github.com/salonimalhotrawd/react-youtube-clone
 
 ---
 
