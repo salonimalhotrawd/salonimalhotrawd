@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Saloni Malhotra</h1>
 
 <h3 align="center">
@@ -239,28 +239,14 @@ Compare cloud-hosted LLMs with local models.
 
 ---
 
-# 📊 GitHub Statistics
+## 📈 GitHub Activity
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=salonimalhotrawd&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonimalhotrawd&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salonimalhotrawd&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=salonimalhotrawd&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Activity
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salonimalhotrawd&theme=github_dark"/>
+  <img src="https://ghchart.rshah.org/409ba5/salonimalhotrawd" alt="GitHub Contributions" />
 </p>
 
 ---
