@@ -11,9 +11,8 @@ Frontend Engineer | React • Angular • JavaScript • TypeScript • Python <
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=salonimalhotrawd&theme=algolia&margin-w=15&margin-h=15"/>
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=salonimalhotrawd&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salonimalhotrawd&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
@@ -236,6 +235,17 @@ Compare cloud-hosted LLMs with local models.
 - Student Grade Calculator
 - KBC Quiz
 - Python Fundamentals
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=salonimalhotrawd&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
