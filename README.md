@@ -19,7 +19,7 @@ Frontend Engineer | React • Angular • JavaScript • TypeScript • Python <
 
 # 👩‍💻 About Me
 
-- 💼 Frontend Engineer with **9+ years of experience**
+- 💼 Frontend Engineer with **8+ years of experience**
 - ⚛️ Specialized in building scalable, responsive, and high-performance web applications
 - 🤖 Currently learning **Generative AI, Agentic AI, LLM APIs, and AI Chatbots**
 - 🌱 Exploring **OpenAI, Google Gemini, Anthropic Claude, Hugging Face & Local LLMs**
