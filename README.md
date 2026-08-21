@@ -10,10 +10,10 @@ Frontend Engineer | React • Angular • JavaScript • TypeScript • Python <
   <img src="https://komarev.com/ghpvc/?username=salonimalhotrawd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=salonimalhotrawd&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salonimalhotrawd&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+</p> -->
 
 ---
 
